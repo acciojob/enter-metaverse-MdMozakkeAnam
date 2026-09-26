@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+body {
+            font-family: 'Times New Roman', Times, serif;
+            margin: 20px;
+        }
+        h1 {
+            font-weight: normal;
+            font-size: 24px;
+            margin-bottom: 15px;
+        }
+        button {
+            padding: 4px 12px;
+            font-size: 16px;
+            cursor: pointer;
+        
